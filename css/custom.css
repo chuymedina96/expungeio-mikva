@@ -37,3 +37,54 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;overflow-x:hid
 #hover-links a, #hover-links a:hover {
 	color: #fff;
 }
+.modal-pop {
+	padding-top: 5vh;
+}
+.modal-title{
+	text-align: center;
+	color: #43BDBD;
+}
+.pop-up {
+	color: ;
+}
+.pop-up h2{
+	color: #43BDBD;
+	text-align: center;
+}
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+	width:400px;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.slide-height{
+  height:600px;
+  margin-top: -80px;
+}
+.item{
+  background-color: purple;
+}
+.two{
+  background-color: blue;
+}
+.three{
+  background-color: orange;
+}
+.four{
+  background-color: black;
+}
