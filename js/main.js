@@ -4,7 +4,7 @@ var show = function(){
     $('#overlay').modal('show');
 };
 $(window).load(function(){
-    var timer = window.setTimeout(show,1000);
+    var timer = window.setTimeout(show,1500);
 });
 /*setTimeout(function() {
     $('#overlay').modal('hide');
