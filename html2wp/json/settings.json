@@ -1,0 +1,86 @@
+{
+    "widgets": [],
+    "menus": {
+        "locations": [],
+        "links": []
+    },
+    "pages": [
+        {
+            "title": "Expunge.io",
+            "slug": "front-page",
+            "template": "front-page.php",
+            "file_name": "index.html"
+        },
+        {
+            "title": "Expunge.io",
+            "slug": "espanol",
+            "template": "espanol.php",
+            "file_name": "espanol.html"
+        }
+    ],
+    "forms": {
+        "3120757006": {
+            "gfid": 3120757006,
+            "gfname": "Expunge.io Page - Form",
+            "data": [
+                {
+                    "tag_name": "input",
+                    "name": "field1",
+                    "placeholder": "Your Full Name *",
+                    "required": 0,
+                    "id": "",
+                    "class": "",
+                    "type": "text"
+                },
+                {
+                    "tag_name": "input",
+                    "name": "field2",
+                    "placeholder": "Your Email *",
+                    "required": 0,
+                    "id": "",
+                    "class": "",
+                    "type": "email"
+                },
+                {
+                    "tag_name": "input",
+                    "name": "field3",
+                    "placeholder": "Your Number",
+                    "required": 0,
+                    "id": "",
+                    "class": "",
+                    "type": "number"
+                },
+                {
+                    "tag_name": "input",
+                    "name": "cf-submitted-h2wp",
+                    "placeholder": "Submit",
+                    "required": 0,
+                    "id": "",
+                    "class": "",
+                    "type": "submit",
+                    "value": "Submit"
+                },
+                {
+                    "tag_name": "textarea",
+                    "name": "field3",
+                    "placeholder": "How did you hear about expunge.io?",
+                    "required": 0,
+                    "id": "",
+                    "class": "",
+                    "cols": "",
+                    "rows": ""
+                }
+            ],
+            "class": "",
+            "id": "",
+            "upload": false
+        }
+    },
+    "forms_map": {
+        "front-page": [
+            3120757006
+        ]
+    },
+    "posts_per_page": 0,
+    "taxonomies": []
+}
