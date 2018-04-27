@@ -45,7 +45,6 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;overflow-x:hid
 	color: #43BDBD;
 }
 .pop-up {
-	color: ;
 }
 .pop-up h3{
 	color: #43BDBD;
@@ -73,18 +72,22 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;overflow-x:hid
     -o-background-size: cover;
 }
 .slide-height{
-  height:600px;
+  height:550px;
   margin-top: -80px;
+  margin-bottom: -80px;
 }
 .item{
-  background-color: purple;
+  background-color: #FF0000;
 }
 .two{
-  background-color: blue;
+  background-color: #66ccff;
 }
 .three{
   background-color: orange;
 }
 .four{
   background-color: black;
+}
+.modal-h3 h3{
+	color: #43BDBD;
 }
